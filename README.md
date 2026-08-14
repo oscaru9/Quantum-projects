@@ -4,7 +4,7 @@ Welcome to my central quantum research repository. This space serves as a portfo
 
 ## 🎯 Purpose & Scope
 
-The primary goal of this repository is to share simplified, reproducible demonstrations of custom dynamics engines, hardware noise pipelines, and quantum error mitigation strategies while maintaining clean code architecture.
+This repository presents a collection of computational projects in quantum information and quantum computing. The projects explore quantum dynamics, noise, and quantum error mitigation through numerical simulations and analysis of quantum circuits, with an emphasis on clear, reproducible, and well-structured computational workflows.
 
 ---
 
